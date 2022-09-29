@@ -1,8 +1,4 @@
-#!/bin/bash
-env > /tmp/env_before
-source /shared/setup_env.sh
 
-env > /tmp/env_after
 ################## INSTALL GCC 10.2 ################################################
 
 cd $DOWNLOAD
